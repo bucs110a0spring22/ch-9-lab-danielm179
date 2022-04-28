@@ -7,18 +7,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ The purpose of this program was to make two classes, import them in to the driver code and then run it through tests to see if it will work to create a rectangle with an image
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 2 
 
-Grace days remaining: < # >/5
+Grace days remaining: 0/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I was not able to complete the part of self.image
 
 ## REFERENCES:
- < List any outside resources used >
+ NA
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I spent about 3 days trying to find different solutions to the 'AssertionError' problem I recieved with no luck. 
